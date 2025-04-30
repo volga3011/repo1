@@ -1,0 +1,7 @@
+﻿  FileName2.cpp
+H:\УП2 Вертунова\Project1\Project3\FileName2.cpp(10,19): warning C4244: инициализация: преобразование "_Rep" в "unsigned int", возможна потеря данных
+H:\УП2 Вертунова\Project1\Project3\FileName2.cpp(10,19): warning C4244:         with
+H:\УП2 Вертунова\Project1\Project3\FileName2.cpp(10,19): warning C4244:         [
+H:\УП2 Вертунова\Project1\Project3\FileName2.cpp(10,19): warning C4244:             _Rep=std::chrono::system_clock::rep
+H:\УП2 Вертунова\Project1\Project3\FileName2.cpp(10,19): warning C4244:         ]
+  Project3.vcxproj -> H:\УП2 Вертунова\Project1\Project3\x64\Debug\Project3.exe

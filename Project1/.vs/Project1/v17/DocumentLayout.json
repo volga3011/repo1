@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\\u0423\u041F2 \u0412\u0435\u0440\u0442\u0443\u043D\u043E\u0432\u0430\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C9E7F72-7464-4B7D-8BB6-B2A45E8BC2D2}|Project3\\Project3.vcxproj|H:\\\u0423\u041F2 \u0412\u0435\u0440\u0442\u0443\u043D\u043E\u0432\u0430\\Project1\\Project3\\FileName2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C9E7F72-7464-4B7D-8BB6-B2A45E8BC2D2}|Project3\\Project3.vcxproj|solutionrelative:Project3\\FileName2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F18B36-CA5D-4ED9-9255-640D45A5B4EC}|Project2\\Project2.vcxproj|H:\\\u0423\u041F2 \u0412\u0435\u0440\u0442\u0443\u043D\u043E\u0432\u0430\\Project1\\Project2\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4F18B36-CA5D-4ED9-9255-640D45A5B4EC}|Project2\\Project2.vcxproj|solutionrelative:Project2\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53EA57AF-7632-43B3-B333-3E9C5AB52154}|Project1\\Project1.vcxproj|H:\\\u0423\u041F2 \u0412\u0435\u0440\u0442\u0443\u043D\u043E\u0432\u0430\\Project1\\Project1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53EA57AF-7632-43B3-B333-3E9C5AB52154}|Project1\\Project1.vcxproj|solutionrelative:Project1\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName2.cpp",
+              "DocumentMoniker": "H:\\\u0423\u041F2 \u0412\u0435\u0440\u0442\u0443\u043D\u043E\u0432\u0430\\Project1\\Project3\\FileName2.cpp",
+              "RelativeDocumentMoniker": "Project3\\FileName2.cpp",
+              "ToolTip": "H:\\\u0423\u041F2 \u0412\u0435\u0440\u0442\u0443\u043D\u043E\u0432\u0430\\Project1\\Project3\\FileName2.cpp",
+              "RelativeToolTip": "Project3\\FileName2.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T08:40:19.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "H:\\\u0423\u041F2 \u0412\u0435\u0440\u0442\u0443\u043D\u043E\u0432\u0430\\Project1\\Project2\\FileName.cpp",
+              "RelativeDocumentMoniker": "Project2\\FileName.cpp",
+              "ToolTip": "H:\\\u0423\u041F2 \u0412\u0435\u0440\u0442\u0443\u043D\u043E\u0432\u0430\\Project1\\Project2\\FileName.cpp",
+              "RelativeToolTip": "Project2\\FileName.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T08:03:14.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "H:\\\u0423\u041F2 \u0412\u0435\u0440\u0442\u0443\u043D\u043E\u0432\u0430\\Project1\\Project1\\FileName.cpp",
+              "RelativeDocumentMoniker": "Project1\\FileName.cpp",
+              "ToolTip": "H:\\\u0423\u041F2 \u0412\u0435\u0440\u0442\u0443\u043D\u043E\u0432\u0430\\Project1\\Project1\\FileName.cpp",
+              "RelativeToolTip": "Project1\\FileName.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T06:08:44.965Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
